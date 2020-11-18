@@ -1,0 +1,16 @@
+.home-view-container{
+    color: $blue;
+    li{
+     text-decoration: underline;
+     color: blue;
+     text-transform: uppercase;
+    //  text-decoration: none;
+    }
+    ul{
+        list-style-type: none;
+    }
+
+}
+.card-img{
+    width: 300px;
+}
